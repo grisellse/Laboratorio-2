@@ -43,7 +43,7 @@ plt.grid()  # Agregar cuadrícula
 plt.show()  # Muestra el gráfico
 
 
-# ---------------Gráfico Circular-------------------------
+# ---------------grafico pastel-------------------------
 #      Proporción de géneros de las películas
 # ---------------------------------------------------------
 generos = df_top10['genre'].value_counts()  # Contar géneros de película

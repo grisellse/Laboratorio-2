@@ -47,3 +47,8 @@ plt.figure(figsize=(8, 8))# ayuda a definir un tamanño para la grafica
 plt.pie(frecuencia.values, labels=frecuencia.index, autopct="%1.1f%%", startangle=90)# ayuda a definir el tipo de grafica y el porcentaje que se muestra en la grafica
 plt.title('Canciones de los 10 Artistas con más Streams')#ayuda a definir el titulo de la grafica
 plt.show()#ayuda a mostrar la grafica
+
+
+# 
+# En el gráfico de barras y de lineas se permite observar el top de las canciones con mas stream por artista, siendo las mas populares
+
